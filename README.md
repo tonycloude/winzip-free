@@ -1,3 +1,3 @@
 # winzip-free
 
-[<img src="https://images.app.goo.gl/xjJAeNT9uY6RDQoK8"/>]
+[<img src="https://github.com/tonycloude/winzip-free/blob/main/Download.png"/>]
